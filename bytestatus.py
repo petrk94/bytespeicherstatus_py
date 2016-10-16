@@ -1,7 +1,6 @@
 # developed by petrk94
 import urllib.request
 import urllib
-import os
 from bs4 import BeautifulSoup
 
 
@@ -19,7 +18,6 @@ print()
 	 
 
 # stop the program, comandline window will not close after execution
-os.system("pause")
 
 # https://www.crummy.com/software/BeautifulSoup/bs4/doc/#strings-and-stripped-strings
 
